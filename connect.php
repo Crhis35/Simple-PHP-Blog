@@ -2,7 +2,7 @@
 ob_start();
 session_start();
 
-$dbhost 	= "20.253.231.137";
+$dbhost 	= "20.245.188.253";
 $dbuser 	= "crhis";
 $dbpass 	= "admin";
 $dbname 	= "parcialappdb";
